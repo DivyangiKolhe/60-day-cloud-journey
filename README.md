@@ -1,1 +1,1 @@
-# 60-day-cloud-journey
+Transforming from OCI dev to cloud engineer
